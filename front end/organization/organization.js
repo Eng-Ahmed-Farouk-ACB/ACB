@@ -1,4 +1,4 @@
-const API_URL = "https://acb-production-68c9.up.railway.app/";
+const API_URL = "https://acb-production-92db.up.railway.app/";
 
 async function load_organization(){
     let token = localStorage.getItem("token");
