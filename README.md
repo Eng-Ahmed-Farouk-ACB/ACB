@@ -63,7 +63,7 @@ ACB/ (this freaked my mined I did it in a Whole HOUR)
 
 ---
 ## How to try 
-go to : https://eng-ahmed-farouk-acb.github.io/ACB/front%20end/dashboard/dashboard.html
+go to : https://eng-ahmed-farouk-acb.github.io/ACB/front%20end/login/login.html
 
 Make an Account and create an Organization then add transactions and share your organization link to your members to see the transactions history 
 
