@@ -1,6 +1,6 @@
 # ACB - Organization Finances Management System
 
-<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/147e6240-11d2-4ed6-8009-ca8c3bef3af6" />
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/9a245ba4-a72d-4ad9-91cf-519bba934c32" />
 
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
@@ -8,20 +8,21 @@
 [![Railway](https://img.shields.io/badge/deployed%20on-Railway-131415.svg)](https://railway.app/)
 
 
-**This is a Platform system for Founders who wants to show their team members their organization Finance and turn it to a Financilly Transparent Organization**
+**This is a Platform system for Founders who wants to show their team members their organization Finance and turn it to a Financially Transparent Organization**
 ---
 
 ## Features
 
-### For Organization Owner
-- **Add Transfers** – Add a deposit (donation / fund etc.) and a Withdraw (Fund for other org / buy things etc.)
+### As an Organization Owner
+- **Add Transfers** – you can add a deposit (like a donation / fund etc.) and a Withdraw (Fund for other org / buy things etc.)
   
-- **Transactions** – See the Full history of Recent Transactions
+- **You can See Transactions History** – You can see the Full history of Recent Transactions yaayyyy
   
-### For Members
-- **Organization Dashboard** – See balance, members, and transactions
+### As a Member
+- **Organization Dashboard** – you can See balance, members, and transactions
   
-- **Transactions** – See the Full history of Recent Transactions
+- **Transactions** – you can See the Full history of Recent Transactions
+ you can only see! sorry
 
 ---
 
@@ -29,22 +30,22 @@
 
 ```
 
-ACB/
+ACB/ (this freaked my mined I did it in a Whole HOUR)
 ├── backend/
 │   ├── main.py              # FastAPI application with all endpoints
-│   ├── setup.py             # Database Creation and super admin
+│   ├── setup.py             # Database Creation and super admin I hate this file
 │   ├── requirements.txt     # Python requirements
-│   └── database.db          # SQLite database (created at runtime)
+│   └── database.db          # SQLite database (created at runtime) 
 ├── front end/
-│   ├── login/               # Login page
+│   ├── login/               # Login page (you know the rest)
 │   │   ├── login.html
 │   │   ├── login.css
 │   │   └── login.js
-│   ├── register/            # Registration page
+│   ├── register/            # Registration page (same same)
 │   │   ├── register.html
 │   │   ├── register.css
 │   │   └── register.js
-│   ├── dashboard/           # User dashboard
+│   ├── dashboard/           # User dashboard (the one you see your orgs on)
 │   │   ├── dashboard.html
 │   │   ├── dashboard.css
 │   │   └── dashboard.js
@@ -52,17 +53,17 @@ ACB/
 │   │   ├── organization.html
 │   │   ├── organization.css
 │   │   └── organization.js
-│   ├── create_organization/ # New organization form page
+│   ├── create_organization/ # New organization form page 
 │   │   ├── create_organization.html
 │   │   ├── create_organization.css
 │   │   └── create_organization.js
-└── README.md # that's what yo are reading right now!
+└── README.md # that's what yo are reading right now! lol
 
 ```
 
 ---
 ## How to try 
-go to : https://eng-ahmed-farouk-projects.github.io/ACB/front%20end/login/login.html
+go to : https://eng-ahmed-farouk-acb.github.io/ACB/front%20end/dashboard/dashboard.html
 
 Make an Account and create an Organization then add transactions and share your organization link to your members to see the transactions history 
 
@@ -87,6 +88,8 @@ I made this Logo using Canva but Didn't put it on the Website becuase this is th
 this is Platform Made By Ahmed Farouk
 Passionate about STEAM, Entrepreneurship 
 
-- Leader of Innovations Hack Club
+- Leader of Pharos Hack Club
 - Founder & CEO of Adapt Community
-- Present Contractor @ Hack club under the Management of Christina (the co founder)
+- Contractor @ Hack club under the Management of Christina (the co founder)
+- Helping out at #welcom-to-hack-club
+- Lock ins in #Horizons-Equinox
