@@ -1,4 +1,5 @@
 # ACB - Organization Finances Management System
+Ahmed Club Bank
 
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/9a245ba4-a72d-4ad9-91cf-519bba934c32" />
 
@@ -92,4 +93,3 @@ Passionate about STEAM, Entrepreneurship
 - Founder & CEO of Adapt Community
 - Contractor @ Hack club under the Management of Christina (the co founder)
 - Helping out at #welcom-to-hack-club
-- Lock ins in #Horizons-Equinox
