@@ -93,3 +93,7 @@ Passionate about STEAM, Entrepreneurship
 - Founder & CEO of Adapt Community
 - Contractor @ Hack club under the Management of Christina (the co founder)
 - Helping out at #welcom-to-hack-club
+
+And also Made By Ziad Elhusiny 
+
+The GOAT of Programming
